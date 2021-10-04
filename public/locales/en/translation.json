@@ -1,0 +1,34 @@
+{
+    "cart": "CART OF ",
+    "explore": "EXPLORE ",
+    "beatsCap": "BEATS",
+    "purchase": "PURCHASE ",
+    "clearCart": "Clear cart",
+
+    "exploreNav": "Explore",
+    "cartNav": "Cart",
+    "checkoutNav": "Checkout",
+
+    "findTitle": "Find popular beats that you like.",
+    "cartTitle": "View your chosen beats in the cart.",
+    "purchaseTitle": "Enter your payment information and make a purchase.",
+
+    "total": "Your total is",
+    "personalInfo": "Personal information",
+    "paymentInfo": "Payment information",
+    "confirmPurchase": "Finalize your purchase",
+    "thankYou": "Thank you for rating this beat! Use the text below to give feedback to ",
+    "about": " about ",
+    "give": "Give feedback to ",
+
+    "firstName": "First name",
+    "lastName": "Last name",
+    "emailAddress": "Email address",
+    "creditCardNumber": "Credit card number",
+    "CCV": "CCV",
+    "expiryDate": "Expiry date",
+
+    "pay": "Pay for beats",
+    "cancel":"Cancel",
+    "submitFeedback":"Submit feedback"
+}

@@ -1,0 +1,34 @@
+{
+    "beatsCap": "BEATS",
+    "explore": "EXPLORER DES ",
+    "cart": "PANIER DE ",
+    "purchase": "ACHETER DES ",
+    "clearCart": "Vider le panier",
+
+    "exploreNav": "Explorer",
+    "cartNav": "Panier",
+    "checkoutNav": "Caisse",
+
+    "findTitle": "Trouver des beats populaires que vous aimez.",
+    "cartTitle": "Voir vos beats chosis dans le panier.",
+    "purchaseTitle": "Veuillez fournir votre information pour payer pour vos beats choisis.",
+
+    "total": "Votre total est de",
+    "personalInfo": "Information personnelle",
+    "paymentInfo": "Information de paiement",
+    "confirmPurchase": "Finalisez votre achat",
+    "thankYou": "Merci d'avoir une rétroaction à ce beat! Veuillez utiliser le texte ci-dessous pour donner du feedback à ",
+    "about": " à propos de ",
+    "give": "Donner du feedback à ",
+
+    "firstName": "Prénom",
+    "lastName": "Nom de famille",
+    "emailAddress": "Adresse email",
+    "creditCardNumber": "Numéro de carte de crédit",
+    "CCV": "CCV",
+    "expiryDate": "Date d'expiration",
+
+    "pay": "Payer pour vos beats",
+    "cancel":"Annuler",
+    "submitFeedback":"Soumettre vos commentaires"
+}

@@ -1,0 +1,116 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap');
+
+.body {
+  background-color: #1f1f1f;
+  color: white;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.nav {
+  font-family: 'Montserrat', sans-serif;
+  background-color: black;
+  padding-left: 40px;
+  padding-right: 20px;
+  height: 70px;
+  border-bottom: 1px solid rgb(255, 255, 255);
+}
+
+.react-datepicker-wrapper,
+.react-datepicker__input-container,
+.react-datepicker__input-container input {
+    display: block;
+    width: 100%;
+}
+.brand {
+  font-family: 'Orbitron', sans-serif;
+}
+
+h1 {
+  font-family: 'Orbitron', sans-serif;
+}
+
+.purple {
+  color: #C06FFF;
+}
+
+.yellow {
+  color: #FFCE6F;
+}
+
+.selected {
+  color: red;
+}
+
+.navbarLink {
+  margin-left: 15px;
+  text-decoration: none;
+  color: white;
+  transition: 0.2s;
+}
+
+.navbarLink:hover {
+  text-decoration: none;
+  color: #2CA6FF;
+  cursor: pointer;
+}
+
+.title {
+  font-family: 'Orbitron', sans-serif;
+  font-size: 22px;
+  padding-bottom: 15px;
+}
+
+.header {
+  padding-bottom: 40px;
+  padding-top: 40px;
+}
+
+.genre {
+  font-size: 25px;
+  font-weight: bold;
+  color: #c5c5c5;
+}
+
+.translator {
+  background-color: #C06FFF;
+  margin-left: 10px;
+  border-radius: 5px;
+  border: none;
+  color: white;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  transition-duration: 0.2s;
+}
+
+.translator:hover {
+  background-color:rgb(175, 80, 253);
+}
+
+.intro {
+  font-size: 19px;
+  font-weight: bold;
+}
+
+.textarea {
+  resize: none;
+}
+
+.modal .modal-content {}
+
+.addToCartBtn {
+  border: none;
+  color: white;
+  padding: 5px 8px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  transition: 0.2s;
+}
